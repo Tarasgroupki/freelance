@@ -1,0 +1,28 @@
+<?php
+return [
+    'About' => 'Про нас',
+	'Contact' => 'Звязатися з нами',
+	'My cart' => 'Моя корзина',
+	'Signup' => 'Реєстрація',
+	'Login' => 'Авторизація',
+	'Logout' => 'Вийти',
+	'Add to cart' => 'Добавити в корзину',
+	'English' => 'Українська',
+	'Free shipping over' => 'Вільне перевезення вантажу над',
+    'Default welcome msg!' => 'Стандартне привітальне повідомлення!',
+	'Call us' => 'Зателефонуйте нам',
+	'Enjoy free shipping' => 'Насолоджуйтесь безкоштовною доставкою',
+	'on all orders as our holiday gift for you!' => 'на всі замовлення, як наше свято подарунок для вас!',
+	'Sign up for newsletter' => 'Підпишіться на розсилку',
+	'Enter email address' => 'Введіть email адресу',
+	'Your cart' => 'Ваша корзина',
+	'Price' => 'Ціна',
+	'Quantity' => 'Кількість',
+	'Cost' => 'Разом',
+	'Order' => 'Замовити',
+	'Your order' => 'Ваше замовлення',
+	'Search User' => 'Пошук користувачів',
+	'Orders' => 'Замовлення',
+	'Performers' => 'Виконавці',
+	'Home' =>  'Головна'
+	];
